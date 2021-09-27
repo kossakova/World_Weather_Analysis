@@ -10,5 +10,5 @@ From the list of potential travel destinations, the beta tester chosen four citi
 ![WeatherPy_vacation_map.](https://github.com/kossakova/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map..png)
 
 - Finally, using the Google Maps Directions API, we created a travel route between the four cities as well as a marker layer map.
-- 
+
 ![WeatherPy_travel_map](https://github.com/kossakova/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
